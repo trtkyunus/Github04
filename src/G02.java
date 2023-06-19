@@ -23,6 +23,7 @@ public class G02 {
      */
 
         System.out.println("islem ekleyelim");
+        System.out.println("HEAD");
 
     }
 }
